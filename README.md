@@ -22,3 +22,5 @@
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/borislav12322)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/borislav-izmestiev-8b3a60210/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=PicPay)](https://borislav-izmestiev-portfolio.herokuapp.com/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=borislav12322)](https://github.com/anuraghazra/github-readme-stats)
