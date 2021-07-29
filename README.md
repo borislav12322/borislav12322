@@ -1,6 +1,5 @@
 # My name is Borislav Izmestiev
 
-
 ## I am a web-developer with experience in creating web-sites (HTML, CSS, JS)
 
 ### Languages and Tools
@@ -19,5 +18,7 @@
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-000000?style=for-the-badge&logo=AdobePhotoshop)
 
-
 ### Follow me
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/borislav12322)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/borislav-izmestiev-8b3a60210/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=PicPay)](https://borislav-izmestiev-portfolio.herokuapp.com/)
