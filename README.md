@@ -5,6 +5,7 @@
 ### Languages and Tools
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React)
 ![JS](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript)
+![TS](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript)
 ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3)
 ![Gulp](https://img.shields.io/badge/gulp-000000?style=for-the-badge&logo=gulp)
